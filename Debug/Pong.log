@@ -1,18 +1,1 @@
-﻿  AI.cpp
-C:\Users\Kotori\source\repos\Pong\AI.cpp(15,60): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\AI.cpp(20,60): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  Ball.cpp
-C:\Users\Kotori\source\repos\Pong\Ball.cpp(29,20): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\Ball.cpp(30,20): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  GameManager.cpp
-C:\Users\Kotori\source\repos\Pong\GameManager.cpp(84,81): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\GameManager.cpp(88,81): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\GameManager.cpp(106,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\GameManager.cpp(109,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Main.cpp
-  Player.cpp
-C:\Users\Kotori\source\repos\Pong\Player.cpp(6,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Kotori\source\repos\Pong\Player.cpp(7,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Generating Code...
-C:\Users\Kotori\source\repos\Pong\GameManager.cpp(159): warning C4715: 'GameManager::loadFromFile': not all control paths return a value
-  Pong.vcxproj -> C:\Users\Kotori\source\repos\Pong\Debug\Pong.exe
+﻿  Pong.vcxproj -> C:\Users\Kotori\source\repos\PongGame\Debug\Pong.exe

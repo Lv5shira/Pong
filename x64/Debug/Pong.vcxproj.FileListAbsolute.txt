@@ -1,0 +1,2 @@
+C:\Users\Kotori\source\repos\PongGame\x64\Debug\Pong.exe
+C:\Users\Kotori\source\repos\PongGame\x64\Debug\Pong.pdb
